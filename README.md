@@ -17,7 +17,7 @@ This project is an application that will help others keep track of their tasks a
 
 ## Usage
 ​
-To use this note just visit: [This website]()
+To use this note just visit: [The Note Taker website!](https://glacial-shelf-77021.herokuapp.com/notes)
 ​
 ## License
 ​
